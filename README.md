@@ -26,3 +26,9 @@ Credit > Kaggle
 - Performance Metrics:
       1. Log Loss.
       2. Binary Confusion Matrix. 
+
+### Files:
+1. Exploratory Data Analysis.ipynb: extracting basic features from data and performing EDA.
+2. Text Preprocessing.ipynb: Processing text to remove stopwords, special characters, performing stemming and decontracting words.
+3. Featurizing Text data.ipyng: applying TF-IDF Average Word2Vec on text data 
+4. models.ipynb: Applying and testing various models on the final featurized data.
